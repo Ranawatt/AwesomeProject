@@ -3,6 +3,7 @@ import React from 'react';
 import { StyleSheet, Text, View, Image, SafeAreaView, Alert, TouchableNativeFeedback, Button, 
   Platform, Dimensions } from 'react-native';
 import WelcomeScreen from './app/screens/WelcomeScreen';
+import ViewImageScreen from './app/screens/ViewImageScreen';
 // import { useDimensions, useDeviceOrientationa } from 'react-native-community/hooks';
 
 export default function App() {
@@ -57,7 +58,7 @@ export default function App() {
   //   // </SafeAreaView>
   // );
   
-  return <WelcomeScreen/>
+  return <ViewImageScreen/>
 }
 
 const styles = StyleSheet.create({
