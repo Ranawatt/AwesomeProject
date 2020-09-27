@@ -46,16 +46,16 @@ export default function App() {
 
     
 
-  //   // <SafeAreaView style = {styles.container}>
-  //   //   <View style = {{
-  //   //     backgroundColor:"orange",
-  //   //     width:"100%",
-  //   //     height: landscape? "100%" : "30%"
-  //   //   }}>
+    // <SafeAreaView style = {styles.container}>
+    //   <View style = {{
+    //     backgroundColor:"orange",
+    //     width:"100%",
+    //     height: landscape? "100%" : "30%"
+    //   }}>
 
-  //   //   </View>
+    //   </View>
       
-  //   // </SafeAreaView>
+    // </SafeAreaView>
   // );
   
   return <ViewImageScreen/>
