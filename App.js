@@ -57,7 +57,6 @@ export default function App() {
       
     // </SafeAreaView>
   // );
-  
   return <ViewImageScreen/>
 }
 
